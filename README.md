@@ -6,6 +6,8 @@ Raw data: https://drive.google.com/file/d/1dy22HhSdTUvmptlS6xvbLQa9uy8zfYNa/view
 After pre-processing: https://drive.google.com/file/d/1kjB5euUHDg4UeTvspAGx9h9LtWLmctiG/view?usp=sharing  
 & https://drive.google.com/file/d/11hBII9Fr7F9d9T32quZ3IXMnKmjvuGJQ/view?usp=sharing
 
+
+
 All the code can run based on the number from a1-a5
 
 a1: Seperate original dataset to 2012 and 2013, dToU and nonToU group, then seperate A-Q categories according to their income level. 
