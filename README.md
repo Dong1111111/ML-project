@@ -17,7 +17,7 @@ a2: Calculate the average demand of all consumers by time (365 day * 48 time slo
 
 a3: Generate input and output data for learning network, the file name is 'trainA.mat'
 
-a4: Train the machine learning network, including NN(a4_1), SVR(a4_2), XGBoost(a4_3), and LSTM(a4_4)
+a4: Train the machine learning network, including NN(a4_1), XGBoost(a4_2), and LSTM(a4_3, including 2 files), SVR(a4_4), 
 
 a5: Calculate the paramters of price response function, including linear type (a5_1) and nonlinear type (a5_2).
 
