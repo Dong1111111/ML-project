@@ -21,3 +21,4 @@ a4: Train the machine learning network, including NN(a4_1), XGBoost(a4_2), and L
 
 a5: Calculate the paramters of price response function, including linear type (a5_1) and nonlinear type (a5_2).
 
+*The code and required data to run the code is uploded seperately becasue the file limit is 25MB.
